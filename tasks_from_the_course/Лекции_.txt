@@ -1,3 +1,6 @@
 https://abrupt-moose-9e7.notion.site/1-PYTHON-e5085fc06a4d41e28928727e486a95b7
 https://abrupt-moose-9e7.notion.site/2-PYTHON-ca0d47a5ecac46a1b8cf0ba746d5df96
 https://abrupt-moose-9e7.notion.site/3-PYTHON-082f4da6c55a4608805569547ed08987
+Poleza
+https://nbviewer.org/github/postlogist/course_opt/blob/master/jupyter_tutorial/00_contents.ipynb
+https://nbviewer.org/github/KlukvaMors/basic_stat/blob/main/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82.ipynb?flush_cache=true
